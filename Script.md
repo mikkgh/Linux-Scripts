@@ -13,12 +13,12 @@ Vamos a analizar las distintas partes del script y la forma en que funcionan.
 
 A. Encabezado()
 	Es un pequeño encabezado para el archivo de salida con la fecha del informe.
-![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/encabezado.png)
+	![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/encabezado.png)
 
 B. RedActual()
 	Obtenemos los parámetros de nuestra red para ofrecerla como red por defecto.
 	Se guardará en la variable redact
-![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/redactual.png)
+	![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/redactual.png)
 
 C. PideDatos()
 	Nos solicita la ip de la red y los valores de ip inicial e ip final.
