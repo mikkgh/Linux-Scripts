@@ -21,6 +21,7 @@ El script está mejorado en los siguientes aspectos:
 
 # Utilidad
 
-Muchas veces necesitamos saber qué ordenadores están conectados a nuestra red. 
-El script es bastante ágil a la hora de escanear toda la red simplemente pulsando varios intros.
-Pero a la vez es lo suficientemente versátil para dejarnos elegir todos los parámetros de búsqueda, sin permitir entradas erróneas, y dando consejos sobre los parámetros requeridos cuando se produce algún error en la entrada. 
+	Muchas veces necesitamos saber qué ordenadores están conectados a nuestra red.
+	El script es bastante ágil a la hora de escanear toda la red simplemente pulsando varios intros.
+	Pero a la vez es lo suficientemente versátil para dejarnos elegir todos los parámetros de búsqueda.
+	No permite entradas erróneas, y da consejos sobre los parámetros cuando se produce error en la entrada. 
