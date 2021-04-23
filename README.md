@@ -2,21 +2,22 @@
 
 ## Descripción del proyecto
 
-El proyecto consiste en un script que comprueba todos los pcs conectados a una red.
+	El proyecto consiste en un script que comprueba todos los pcs conectados a una red.
 
-En el apartado 1.Introducción se analizan los detalles del proyecto.
+	En el apartado 1.Introducción se analizan los detalles del proyecto.
 
 ## Nombre del script
 
-El script se llama RespuestaPcsRed.sh
+	El script se llama RespuestaPcsRed.sh
 
-En el apartado 2.El Script se analiza su funcionamiento.
+	En el apartado 2.El Script se analiza su funcionamiento.
 
 ## Referencias
 
-El script de clase de conexión a servidores.
-Varias páginas web en las que se trataba el tema de cómo verificar que la cadena introducida
-es un número y no es otra cosa.
+	El script de clase de conexión a servidores.
+	
+	Varias páginas web en las que se trataba el tema de cómo verificar que la cadena introducida 
+	es un número y no es otra cosa.
 
 # Índice:
 
