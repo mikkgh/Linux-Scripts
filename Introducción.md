@@ -1,6 +1,4 @@
-﻿# Introducción
-
-## El script Respuesta de PCs en la red
+# El script Respuesta de PCs en la red
 
 Este script se basa en uno de los scripts practicados en clase que trataba de comunicarse con los pcs de una determinada red a través de ping.
 
@@ -21,7 +19,7 @@ El script está mejorado en los siguientes aspectos:
     7. El script genera un archivo llamado conectados con la fecha actual donde estarán sólo las ips que respondieron.
 
 
-## Utilidad
+# Utilidad
 
 Muchas veces necesitamos saber qué ordenadores están conectados a nuestra red. 
 El script es bastante ágil a la hora de escanear toda la red simplemente pulsando varios intros.

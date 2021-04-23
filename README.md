@@ -1,9 +1,9 @@
-## Proyecto Scripts para ISO. Respuesta de PC's en la red.
+# Proyecto Scripts para ISO. Respuesta de PC's en la red.
 
 
 El proyecto consiste en un script que comprueba todos los pcs conectados a una red.
 
-## Índice:
+# Índice:
 
 1. [Introducción](https://github.com/mikkgh/Linux-Scripts/blob/main/Introducción.md)
 

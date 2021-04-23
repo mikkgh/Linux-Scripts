@@ -1,8 +1,8 @@
-﻿## Respuesta de PCs en la red
+﻿# Respuesta de PCs en la red
 
 Vamos a analizar las distintas partes del script y la forma en que funcionan.
 
-## Cabecera del script y variables:
+# Cabecera del script y variables:
 
 	La variable FECHA será necesaria para crear el archivo de salida. 
 	La variable esnumero la necesitaremos para comprobar que las cadenas introducidas son números.
@@ -10,7 +10,7 @@ Vamos a analizar las distintas partes del script y la forma en que funcionan.
 ![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/variables.png)
 
 
-## Funciones:
+# Funciones:
 
 	A. Encabezado()
 
@@ -90,7 +90,7 @@ Vamos a analizar las distintas partes del script y la forma en que funcionan.
 ![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/compruebaip.png)
 
 
-## Bloque principal
+# Bloque principal
 	
 	Se llama a las siguientes funciones:
 	A. RedActual, con la que obtenemos los parámetros de la red por defecto.
