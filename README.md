@@ -1,24 +1,22 @@
 # Proyecto Scripts para ISO. Respuesta de PC's en la red.
 
-##Descripción del proyecto
+## Descripción del proyecto
 
 El proyecto consiste en un script que comprueba todos los pcs conectados a una red.
 
 En el apartado 1.Introducción se analizan los detalles del proyecto.
 
-##Nombre del script
+## Nombre del script
 
 El script se llama RespuestaPcsRed.sh
 
 En el apartado 2.El Script se analiza su funcionamiento.
 
-##Referencias
+## Referencias
 
 El script de clase de conexión a servidores.
 Varias páginas web en las que se trataba el tema de cómo verificar que la cadena introducida
 es un número y no es otra cosa.
-
-
 
 # Índice:
 
