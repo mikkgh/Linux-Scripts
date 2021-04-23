@@ -3,7 +3,8 @@
 Vamos a analizar las distintas partes del script y la forma en que funcionan.
 
 1. Cabecera del script y variables:
-	La variable FECHA será necesaria para crear el archivo de salida
+
+	La variable FECHA será necesaria para crear el archivo de salida. 
 	La variable esnumero la necesitaremos para comprobar que las cadenas introducidas son números.
 
 ![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/variables.png)
