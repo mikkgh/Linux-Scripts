@@ -9,8 +9,6 @@ El proyecto consiste en un script que comprueba todos los pcs conectados a una r
 
 2. [El Script](https://github.com/mikkgh/Linux-Scripts/blob/main/Script.md)
 
-3. [Funcionamiento](https://github.com/mikkgh/Linux-Scripts/blob/main/Funcionamiento.md)
-
-4. [Resultados](https://github.com/mikkgh/Linux-Scripts/blob/main/Resultados.md)
+3. [Ejemplos](https://github.com/mikkgh/Linux-Scripts/blob/main/Ejemplos.md)
 
 

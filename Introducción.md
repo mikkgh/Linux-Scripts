@@ -16,7 +16,7 @@ El script está mejorado en los siguientes aspectos:
        
     6. El script recorrerá todas las ips generando en pantalla el valor de la ip y si hay o no conexión.
        
-    7. El script genera un archivo llamado conectados con la fecha actual donde estarán sólo las ips que respondieron.
+    7. Se genera un archivo llamado conectados con la fecha actual donde estarán las ips que respondieron.
 
 
 # Utilidad
