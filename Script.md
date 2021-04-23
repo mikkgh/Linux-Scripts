@@ -2,7 +2,7 @@
 
 Vamos a analizar las distintas partes del script y la forma en que funcionan.
 
-Cabecera del script y variables:
+#Cabecera del script y variables:
 
 	La variable FECHA será necesaria para crear el archivo de salida. 
 	La variable esnumero la necesitaremos para comprobar que las cadenas introducidas son números.
@@ -10,7 +10,7 @@ Cabecera del script y variables:
 ![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/variables.png)
 
 
-2. Funciones:
+#Funciones:
 
 	A. Encabezado()
 
