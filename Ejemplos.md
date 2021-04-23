@@ -1,32 +1,48 @@
-# Ejemplos Wget
+﻿## Ejemplos del script Respuesta de PCs en la red
 
-Usar Wget para descargar archivos individuales. Para descargar un único archivo y almacenarlo en tu directorio de trabajo actual:
+Aqui tenemos algunos ejemplos de funcionamiento del script
 
-    wget https://wordpress.org/latest.zip
+# Pulsamos intro en todos los parámetros (todo por defecto):
 
-Se puede usar -i para obtener todos los archivos almacenados en un archivo de texto:
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/ej1.png)
 
-    wget -i example.txt
+	El archivo de conectados.
 
-Puedes utilizar wget para colocar un archivo en otro directorio usando la función -P:
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/c1.png)
 
-    wget -P documents/archives/ https://wordpress.org/latest.zip
-    
-El comando también se puede usar con FTP. Solo necesitarás especificar el nombre de usuario y la contraseña:
+# Ping a la red 1.1.1.0 con ip inical=1 e ip final=4:
 
-    wget --ftp-user=user --ftp-password=passwd ftp://cdimage.debian.org/debian-cd/current/amd64/iso-dvd/debian-10.8.0-amd64-DVD-1.iso
-    
-Usar Wget para recuperar sitios web completos:
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/ej2.png)
 
-    wget --mirror --convert-links --page-requisites --no-parent -P documents/websites/ https://www.google.es
+	El archivo de conectados.
 
-Usar Wget para localizar enlaces rotos. En el archivo wget-log podemos encontrar la lista de enlaces rotos:
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/c2.png)
 
-    wget -o wget-log -r -l 5 --spider http://www.google.es
+# Ping a la red 8.8.8.0 con errores al meter cadenas no numéricas:
 
-Usar Wget para descargar archivos numerados. Sirve cuando tienes archivos o imágenes numeradas en una lista determinada:
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/ej3.png)
 
-    wget http://ejemplo.com/imagenes/{1..50}.jpg
+	El archivo de conectados.
+
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/c3.png)
+
+# Ping a la red 8.8.4.0 con errores de rango en los valores de ip:
+
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/ej4.png)
+
+	El archivo de conectados.
+
+![imagen](https://github.com/mikkgh/Linux-Scripts/blob/main/capturas/c4.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
