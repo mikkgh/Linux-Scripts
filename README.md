@@ -10,9 +10,14 @@
 
 	El script se llama RespuestaPcsRed.sh
 	
-	Puedes descargarlo desde aqui
+	Puedes verlo desde aqui:
 
 [Script RespuestaPcsRed.sh](https://github.com/mikkgh/Linux-Scripts/blob/main/archivos/RespuestaPcsRed.sh)
+
+
+O puedes descargarlo desde aqui:
+
+[Descarga RespuestaPcsRed.sh](https://github.com/mikkgh/Linux-Scripts/blob/main/archivos/RespuestaPcsRed.zip)
 
 	En el apartado 2.El Script se analiza su funcionamiento.
 
